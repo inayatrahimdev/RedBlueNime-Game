@@ -67,3 +67,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 Thanks to the open-source community for the tools and resources that made this project possible.
+
+# Contact
+For any questions or suggestions, feel free to contact me:
+**Email: inayatrahim006@gmail.com**
