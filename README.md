@@ -45,18 +45,18 @@ python rb_game.py <num_red> <num_blue> <version> <first_player> <depth>
 ```
 Replace the placeholders with appropriate values:
 
-<num_red>: Number of red marbles (e.g., 10)
-<num_blue>: Number of blue marbles (e.g., 10)
-<version>: Game version (standard or misere)
-<first_player>: First player (human or computer)
-<depth>: Depth for AI search (not used in this implementation but required)
+- <num_red>: Number of red marbles (e.g., 10)
+- <num_blue>: Number of blue marbles (e.g., 10)
+- <version>: Game version (standard or misere)
+- <first_player>: First player (human or computer)
+- <depth>: Depth for AI search (not used in this implementation but required)
 Example Command
 ```sh
 python rb_game.py 10 10 standard human 0
 ```
 How to Play
-1. Human's Move: Enter 'red' or 'blue' to select the color of marbles to remove. Then, enter 1 or 2 to specify the number of marbles to remove.
-2. Computer's Move: The computer will automatically remove 1 or 2 marbles from the color with the remaining marbles.
+- Human's Move: Enter 'red' or 'blue' to select the color of marbles to remove. Then, enter 1 or 2 to specify the number of marbles to remove.
+- Computer's Move: The computer will automatically remove 1 or 2 marbles from the color with the remaining marbles.
    
 The game continues until one color runs out of marbles. The winner is determined based on the chosen game version.
 
