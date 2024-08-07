@@ -43,7 +43,7 @@ Run the game using the following command:
 
 ```sh
 python rb_game.py <num_red> <num_blue> <version> <first_player> <depth>
-
+```
 Replace the placeholders with appropriate values:
 
 <num_red>: Number of red marbles (e.g., 10)
@@ -52,8 +52,9 @@ Replace the placeholders with appropriate values:
 <first_player>: First player (human or computer)
 <depth>: Depth for AI search (not used in this implementation but required)
 Example command:
-
+```sh
 python rb_game.py 10 10 standard human 0
+```
 How to Play
 Human's Move: Enter 'red' or 'blue' to select the color of marbles to remove. Then, enter 1 or 2 to remove that number of marbles.
 Computer's Move: The computer will automatically remove 1 or 2 marbles from the color with the remaining marbles.
