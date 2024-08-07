@@ -57,8 +57,7 @@ python rb_game.py 10 10 standard human 0
 ## How to Play
 - Human's Move: Enter 'red' or 'blue' to select the color of marbles to remove. Then, enter 1 or 2 to specify the number of marbles to remove.
 - Computer's Move: The computer will automatically remove 1 or 2 marbles from the color with the remaining marbles.
-   
-  The game continues until one color runs out of marbles. The winner is determined based on the chosen game version.
+- The game continues until one color runs out of marbles. The winner is determined based on the chosen game version.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
