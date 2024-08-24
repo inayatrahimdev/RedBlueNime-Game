@@ -1,6 +1,5 @@
 # DEP Internship Task
 # Red-Blue Nim Game
-
 ![Game Image](https://via.placeholder.com/800x200?text=Red-Blue+Nim+Game)
 
 ## Project Overview
